@@ -1,0 +1,7 @@
+build steps:
+
+export TEMPLATECONF=meta-adam
+bitbake core-image-adam
+
+note:
+
